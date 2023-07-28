@@ -33,7 +33,7 @@ export const ScheduleTableHead = styled.thead``
 export const ScheduleTableBody = styled.tbody``
 
 export const ScheduleTableRow = styled.tr`
-  border-bottom: 1px solid ${({ theme }) => theme.colors.light};
+  border-bottom: 1px solid ${({ theme }) => theme.colors.lightBlue};
   
   @media screen and (max-width: 768px) {
     display: block;
