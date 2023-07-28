@@ -1,7 +1,7 @@
 # react-styled-components
 
 ## Installation
-run `cd front` \n
+run `cd front`  
 run `npm install`
 
 # Preview
